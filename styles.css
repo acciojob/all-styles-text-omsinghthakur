@@ -8,8 +8,7 @@
     border-left: 5px solid green; 
 	 width: 100%; 
   }
-
-  h3 {
+#heading {
     font-size: 20px;
     color: white;
 	text-decoration:underline;  
